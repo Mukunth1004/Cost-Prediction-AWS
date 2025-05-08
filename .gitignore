@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.exe
+
+# Others
+*.h5
+*.ckpt
+.DS_Store
