@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Model and preprocessed data files
+*.h5
+*.joblib
+*.pkl
+*.sav
+*.npy
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable / secrets
+.env
+.env.*
+
+# FastAPI cache
+__fastapi_cache__/
+
+# Test coverage and cache
+htmlcov/
+.tox/
+.nox/
+.cache/
+coverage.xml
+pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# MyPy and other tooling
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# PyInstaller
+*.spec
+
+# AWS credentials (if any)
+.aws/

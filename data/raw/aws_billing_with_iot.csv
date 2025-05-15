@@ -1,0 +1,157 @@
+Date,Service,Cost,Currency,IoT_Things,IoT_Rules,IoT_Policies,Is_IoT_Core
+2025-03-25,AWS CloudShell,7.64e-08,USD,0,0,0,0
+2025-03-25,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-03-25,Tax,0.0,USD,0,0,0,0
+2025-03-26,AWS Key Management Service,0.0,USD,0,0,0,0
+2025-03-26,EC2 - Other,8.015e-07,USD,0,0,0,0
+2025-03-26,Amazon Elastic Compute Cloud - Compute,0.0,USD,0,0,0,0
+2025-03-26,Amazon Elastic File System,0.0,USD,0,0,0,0
+2025-03-26,Amazon Elastic Load Balancing,0.0,USD,0,0,0,0
+2025-03-26,Amazon Virtual Private Cloud,0.001861115,USD,0,0,0,0
+2025-03-27,EC2 - Other,0.0,USD,0,0,0,0
+2025-03-28,EC2 - Other,0.0,USD,0,0,0,0
+2025-03-29,EC2 - Other,0.0,USD,0,0,0,0
+2025-03-30,EC2 - Other,0.0,USD,0,0,0,0
+2025-03-31,AWS IoT,0.0,USD,0,0,0,0
+2025-03-31,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-01,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-01,Tax,0.0,USD,0,0,0,0
+2025-04-02,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-03,AWS IoT,0.0,USD,0,0,0,0
+2025-04-03,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-04,AWS IoT,0.0,USD,0,0,0,0
+2025-04-04,AWS IoT Device Management,9e-05,USD,0,0,0,0
+2025-04-04,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-05,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-06,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-07,AWS IoT,0.0,USD,0,0,0,0
+2025-04-07,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-08,AWS Lambda,0.0,USD,0,0,0,0
+2025-04-08,Amazon API Gateway,0.0,USD,0,0,0,0
+2025-04-08,Amazon DynamoDB,6.7e-07,USD,0,0,0,0
+2025-04-08,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-08,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-09,AWS Glue,0.0,USD,0,0,0,0
+2025-04-09,AWS Key Management Service,0.0,USD,0,0,0,0
+2025-04-09,AWS Lambda,0.0,USD,0,0,0,0
+2025-04-09,Amazon API Gateway,0.0,USD,0,0,0,0
+2025-04-09,Amazon DynamoDB,2.41451e-05,USD,0,0,0,0
+2025-04-09,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-09,Amazon Simple Notification Service,0.0,USD,0,0,0,0
+2025-04-09,Amazon Simple Queue Service,0.0,USD,0,0,0,0
+2025-04-09,Amazon Simple Storage Service,5e-06,USD,0,0,0,0
+2025-04-09,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-10,AWS IoT,0.0,USD,0,0,0,0
+2025-04-10,AWS Lambda,0.0,USD,0,0,0,0
+2025-04-10,Amazon API Gateway,0.0,USD,0,0,0,0
+2025-04-10,Amazon DynamoDB,4.964e-06,USD,0,0,0,0
+2025-04-10,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-10,Amazon Simple Notification Service,0.0,USD,0,0,0,0
+2025-04-10,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-10,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-10,Tax,0.0,USD,0,0,0,0
+2025-04-11,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-11,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-11,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-12,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-12,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-12,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-13,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-13,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-13,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-14,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-14,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-14,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-15,AWS IoT,0.0,USD,0,0,0,0
+2025-04-15,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-15,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-15,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-16,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-16,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-16,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-17,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-17,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-17,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-18,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-18,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-18,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-19,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-19,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-19,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-20,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-20,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-20,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-21,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-21,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-21,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-22,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-22,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-22,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-23,AWS IoT,0.0,USD,0,0,0,0
+2025-04-23,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-23,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-23,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-24,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-24,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-24,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-25,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-25,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-25,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-26,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-26,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-26,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-27,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-27,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-27,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-28,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-28,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-28,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-29,AWS IoT,0.0,USD,0,0,0,0
+2025-04-29,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-29,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-29,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-04-30,EC2 - Other,0.0,USD,0,0,0,0
+2025-04-30,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-04-30,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-01,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-01,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-01,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-01,Tax,0.0,USD,0,0,0,0
+2025-05-02,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-02,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-02,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-03,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-03,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-03,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-04,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-04,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-04,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-05,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-05,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-05,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-06,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-06,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-06,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-07,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-07,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-07,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-08,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-08,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-08,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-09,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-09,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-09,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-10,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-10,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-10,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-11,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-11,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-11,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-12,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-12,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-12,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-13,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-13,Amazon Simple Storage Service,0.0,USD,0,0,0,0
+2025-05-13,AmazonCloudWatch,0.0,USD,0,0,0,0
+2025-05-14,EC2 - Other,0.0,USD,0,0,0,0
+2025-05-14,Amazon Simple Storage Service,0.0,USD,0,0,0,0
