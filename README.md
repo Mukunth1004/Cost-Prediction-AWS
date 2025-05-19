@@ -96,8 +96,9 @@ httpx==0.24.1
 
 Here is a preview of the app:
 
-![Screenshot 2025-05-06 111950](https://github.com/user-attachments/assets/dc553a2d-1976-4dd1-828a-b02831429570)
-![Screenshot 2025-05-07 115628](https://github.com/user-attachments/assets/8d8e96ca-e97a-4870-a58b-b2aead1a0cdd)
+![Screenshot 2025-05-19 172312](https://github.com/user-attachments/assets/99412642-7f56-46da-ab6c-d2993e55dc22)
+
+
 
 
 ---
@@ -129,7 +130,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 **Mukunthan**  
 Email: mukunth.s1004@gmail.com  
-GitHub: [Mukunth1004]((https://github.com/Mukunth1004))  
+GitHub: [Mukunth1004](https://github.com/Mukunth1004)  
 
 
 
