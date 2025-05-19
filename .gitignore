@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore requirements.txt
+requirements.txt
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore other large files (if applicable)
+*.log
+*.csv
+*.h5
+*.pkl
