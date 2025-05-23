@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# src/main.py
 from fastapi import FastAPI
 from fastapi import HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -19,20 +17,6 @@ app = FastAPI(
 )
 
 # CORS configuration
-=======
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
-from src.routers import aws, iot
-from src.config.settings import settings
-
-app = FastAPI(
-    title=settings.APP_NAME,
-    description="API for predicting AWS and IoT Core costs with optimization recommendations",
-    version=settings.APP_VERSION
-)
-
-# CORS settings
->>>>>>> c8796e0900ee431bfcb6d90f284f0729c8f81f12
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -41,8 +25,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-<<<<<<< HEAD
-# Initialize services
 aws_service = AWSCostService()
 iot_service = IoTCostService()
 
@@ -98,12 +80,4 @@ def train_iot_model():
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
-=======
-# Include routers
-app.include_router(aws.router, prefix="/aws", tags=["AWS Cost Prediction"])
-app.include_router(iot.router, prefix="/iot", tags=["IoT Cost Prediction"])
 
-@app.get("/")
-def read_root():
-    return {"message": "AWS-IoT Cost Prediction API"}
->>>>>>> c8796e0900ee431bfcb6d90f284f0729c8f81f12
