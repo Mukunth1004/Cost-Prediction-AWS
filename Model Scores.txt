@@ -1,3 +1,0 @@
-Model Scores :
-1) AWS Model : MAE: 5.45, RMSE: 6.02
-2) Iot Model : MAE: 2.67, RMSE: 3.27
