@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Ignore model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.joblib
+*.sav
+*.tflite
+
+# Optional: Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
