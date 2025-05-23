@@ -21,19 +21,4 @@ env/
 # Ignore system files
 .DS_Store
 Thumbs.db
-=======
-.env/
 
-# Ignore requirements.txt
-requirements.txt
-
-# Ignore Python caches
-__pycache__/
-*.pyc
-
-# Ignore other large files (if applicable)
-*.log
-*.csv
-*.h5
-*.pkl
->>>>>>> c8796e0900ee431bfcb6d90f284f0729c8f81f12
